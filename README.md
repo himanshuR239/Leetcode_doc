@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/himanshuR239/Leetcode_doc/tree/master/0209-minimum-size-subarray-sum) |
 | [0321-create-maximum-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0321-create-maximum-number) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [2008-maximum-earnings-from-taxi](https://github.com/himanshuR239/Leetcode_doc/tree/master/2008-maximum-earnings-from-taxi) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshuR239/Leetcode_doc/tree/master/0209-minimum-size-subarray-sum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [2008-maximum-earnings-from-taxi](https://github.com/himanshuR239/Leetcode_doc/tree/master/2008-maximum-earnings-from-taxi) |
 ## Sliding Window
 |  |
 | ------- |
@@ -52,4 +54,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Hash Table
+|  |
+| ------- |
+| [2008-maximum-earnings-from-taxi](https://github.com/himanshuR239/Leetcode_doc/tree/master/2008-maximum-earnings-from-taxi) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2008-maximum-earnings-from-taxi](https://github.com/himanshuR239/Leetcode_doc/tree/master/2008-maximum-earnings-from-taxi) |
+## Sorting
+|  |
+| ------- |
+| [2008-maximum-earnings-from-taxi](https://github.com/himanshuR239/Leetcode_doc/tree/master/2008-maximum-earnings-from-taxi) |
 <!---LeetCode Topics End-->
