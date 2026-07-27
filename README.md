@@ -73,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0940-distinct-subsequences-ii) |
+## Database
+|  |
+| ------- |
+| [1934-confirmation-rate](https://github.com/himanshuR239/Leetcode_doc/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
