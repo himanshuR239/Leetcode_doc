@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/himanshuR239/Leetcode_doc/tree/master/0187-repeated-dna-sequences) |
 | [0940-distinct-subsequences-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0940-distinct-subsequences-ii) |
+| [1392-longest-happy-prefix](https://github.com/himanshuR239/Leetcode_doc/tree/master/1392-longest-happy-prefix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/himanshuR239/Leetcode_doc/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Database
 |  |
@@ -94,8 +95,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/himanshuR239/Leetcode_doc/tree/master/0187-repeated-dna-sequences) |
+| [1392-longest-happy-prefix](https://github.com/himanshuR239/Leetcode_doc/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/himanshuR239/Leetcode_doc/tree/master/0187-repeated-dna-sequences) |
+| [1392-longest-happy-prefix](https://github.com/himanshuR239/Leetcode_doc/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/himanshuR239/Leetcode_doc/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
