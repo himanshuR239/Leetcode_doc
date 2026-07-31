@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0321-create-maximum-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0321-create-maximum-number) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/himanshuR239/Leetcode_doc/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/himanshuR239/Leetcode_doc/tree/master/3068-find-the-maximum-sum-of-node-values) |
 ## Monotonic Stack
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/himanshuR239/Leetcode_doc/tree/master/0187-repeated-dna-sequences) |
 | [2008-maximum-earnings-from-taxi](https://github.com/himanshuR239/Leetcode_doc/tree/master/2008-maximum-earnings-from-taxi) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1478-allocate-mailboxes](https://github.com/himanshuR239/Leetcode_doc/tree/master/1478-allocate-mailboxes) |
 | [2008-maximum-earnings-from-taxi](https://github.com/himanshuR239/Leetcode_doc/tree/master/2008-maximum-earnings-from-taxi) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/himanshuR239/Leetcode_doc/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/himanshuR239/Leetcode_doc/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0880-decoded-string-at-index](https://github.com/himanshuR239/Leetcode_doc/tree/master/0880-decoded-string-at-index) |
 | [0940-distinct-subsequences-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0940-distinct-subsequences-ii) |
 | [1392-longest-happy-prefix](https://github.com/himanshuR239/Leetcode_doc/tree/master/1392-longest-happy-prefix) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/himanshuR239/Leetcode_doc/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Database
 |  |
@@ -101,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/himanshuR239/Leetcode_doc/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bit Manipulation
 |  |
