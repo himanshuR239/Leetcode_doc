@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0185-department-top-three-salaries](https://github.com/himanshuR239/Leetcode_doc/tree/master/0185-department-top-three-salaries) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/himanshuR239/Leetcode_doc/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1045-customers-who-bought-all-products](https://github.com/himanshuR239/Leetcode_doc/tree/master/1045-customers-who-bought-all-products) |
 | [1164-product-price-at-a-given-date](https://github.com/himanshuR239/Leetcode_doc/tree/master/1164-product-price-at-a-given-date) |
