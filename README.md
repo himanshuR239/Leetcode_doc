@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/himanshuR239/Leetcode_doc/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/himanshuR239/Leetcode_doc/tree/master/0042-trapping-rain-water) |
 | [0321-create-maximum-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0321-create-maximum-number) |
 | [0880-decoded-string-at-index](https://github.com/himanshuR239/Leetcode_doc/tree/master/0880-decoded-string-at-index) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/himanshuR239/Leetcode_doc/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/himanshuR239/Leetcode_doc/tree/master/0042-trapping-rain-water) |
 | [0790-domino-and-tromino-tiling](https://github.com/himanshuR239/Leetcode_doc/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/himanshuR239/Leetcode_doc/tree/master/0877-stone-game) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/himanshuR239/Leetcode_doc/tree/master/0032-longest-valid-parentheses) |
 | [0187-repeated-dna-sequences](https://github.com/himanshuR239/Leetcode_doc/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/himanshuR239/Leetcode_doc/tree/master/0214-shortest-palindrome) |
 | [0880-decoded-string-at-index](https://github.com/himanshuR239/Leetcode_doc/tree/master/0880-decoded-string-at-index) |
