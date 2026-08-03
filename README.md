@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0321-create-maximum-number) |
 | [0347-top-k-frequent-elements](https://github.com/himanshuR239/Leetcode_doc/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0407-trapping-rain-water-ii) |
+| [0502-ipo](https://github.com/himanshuR239/Leetcode_doc/tree/master/0502-ipo) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0877-stone-game](https://github.com/himanshuR239/Leetcode_doc/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/himanshuR239/Leetcode_doc/tree/master/0879-profitable-schemes) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0321-create-maximum-number) |
+| [0502-ipo](https://github.com/himanshuR239/Leetcode_doc/tree/master/0502-ipo) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/himanshuR239/Leetcode_doc/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/himanshuR239/Leetcode_doc/tree/master/3068-find-the-maximum-sum-of-node-values) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/himanshuR239/Leetcode_doc/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0407-trapping-rain-water-ii) |
+| [0502-ipo](https://github.com/himanshuR239/Leetcode_doc/tree/master/0502-ipo) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/himanshuR239/Leetcode_doc/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/himanshuR239/Leetcode_doc/tree/master/0502-ipo) |
 | [1478-allocate-mailboxes](https://github.com/himanshuR239/Leetcode_doc/tree/master/1478-allocate-mailboxes) |
 | [2008-maximum-earnings-from-taxi](https://github.com/himanshuR239/Leetcode_doc/tree/master/2008-maximum-earnings-from-taxi) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
