@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1377-frog-position-after-t-seconds](https://github.com/himanshuR239/Leetcode_doc/tree/master/1377-frog-position-after-t-seconds) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/himanshuR239/Leetcode_doc/tree/master/3068-find-the-maximum-sum-of-node-values) |
 ## Math
 |  |
@@ -213,8 +214,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0407-trapping-rain-water-ii) |
+| [1377-frog-position-after-t-seconds](https://github.com/himanshuR239/Leetcode_doc/tree/master/1377-frog-position-after-t-seconds) |
 ## Matrix
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0407-trapping-rain-water-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1377-frog-position-after-t-seconds](https://github.com/himanshuR239/Leetcode_doc/tree/master/1377-frog-position-after-t-seconds) |
+## Graph Theory
+|  |
+| ------- |
+| [1377-frog-position-after-t-seconds](https://github.com/himanshuR239/Leetcode_doc/tree/master/1377-frog-position-after-t-seconds) |
 <!---LeetCode Topics End-->
