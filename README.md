@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/himanshuR239/Leetcode_doc/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/himanshuR239/Leetcode_doc/tree/master/0879-profitable-schemes) |
 | [0904-fruit-into-baskets](https://github.com/himanshuR239/Leetcode_doc/tree/master/0904-fruit-into-baskets) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/himanshuR239/Leetcode_doc/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/himanshuR239/Leetcode_doc/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/himanshuR239/Leetcode_doc/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/himanshuR239/Leetcode_doc/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
@@ -77,17 +78,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/himanshuR239/Leetcode_doc/tree/master/0209-minimum-size-subarray-sum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/himanshuR239/Leetcode_doc/tree/master/0904-fruit-into-baskets) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/himanshuR239/Leetcode_doc/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshuR239/Leetcode_doc/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/himanshuR239/Leetcode_doc/tree/master/0238-product-of-array-except-self) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/himanshuR239/Leetcode_doc/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [2488-count-subarrays-with-median-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/2488-count-subarrays-with-median-k) |
 ## Queue
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/himanshuR239/Leetcode_doc/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/himanshuR239/Leetcode_doc/tree/master/0187-repeated-dna-sequences) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/himanshuR239/Leetcode_doc/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/himanshuR239/Leetcode_doc/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/himanshuR239/Leetcode_doc/tree/master/3068-find-the-maximum-sum-of-node-values) |
 ## Rolling Hash
@@ -271,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/himanshuR239/Leetcode_doc/tree/master/1255-maximum-score-words-formed-by-letters) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/himanshuR239/Leetcode_doc/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 <!---LeetCode Topics End-->
