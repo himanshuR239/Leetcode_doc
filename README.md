@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/himanshuR239/Leetcode_doc/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/himanshuR239/Leetcode_doc/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/himanshuR239/Leetcode_doc/tree/master/0042-trapping-rain-water) |
 | [0134-gas-station](https://github.com/himanshuR239/Leetcode_doc/tree/master/0134-gas-station) |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshuR239/Leetcode_doc/tree/master/0209-minimum-size-subarray-sum) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/himanshuR239/Leetcode_doc/tree/master/0036-valid-sudoku) |
 | [0187-repeated-dna-sequences](https://github.com/himanshuR239/Leetcode_doc/tree/master/0187-repeated-dna-sequences) |
 | [0347-top-k-frequent-elements](https://github.com/himanshuR239/Leetcode_doc/tree/master/0347-top-k-frequent-elements) |
 | [0904-fruit-into-baskets](https://github.com/himanshuR239/Leetcode_doc/tree/master/0904-fruit-into-baskets) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/himanshuR239/Leetcode_doc/tree/master/0036-valid-sudoku) |
 | [0407-trapping-rain-water-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0407-trapping-rain-water-ii) |
 ## Depth-First Search
 |  |
