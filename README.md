@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/himanshuR239/Leetcode_doc/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/himanshuR239/Leetcode_doc/tree/master/0879-profitable-schemes) |
 | [0904-fruit-into-baskets](https://github.com/himanshuR239/Leetcode_doc/tree/master/0904-fruit-into-baskets) |
+| [0980-unique-paths-iii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0980-unique-paths-iii) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/himanshuR239/Leetcode_doc/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1140-stone-game-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/1140-stone-game-ii) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/himanshuR239/Leetcode_doc/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/himanshuR239/Leetcode_doc/tree/master/0187-repeated-dna-sequences) |
+| [0980-unique-paths-iii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0980-unique-paths-iii) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/himanshuR239/Leetcode_doc/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/himanshuR239/Leetcode_doc/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/himanshuR239/Leetcode_doc/tree/master/3068-find-the-maximum-sum-of-node-values) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/himanshuR239/Leetcode_doc/tree/master/0036-valid-sudoku) |
 | [0407-trapping-rain-water-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0407-trapping-rain-water-ii) |
+| [0980-unique-paths-iii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0980-unique-paths-iii) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/himanshuR239/Leetcode_doc/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1463-cherry-pickup-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/1463-cherry-pickup-ii) |
 ## Depth-First Search
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0980-unique-paths-iii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0980-unique-paths-iii) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/himanshuR239/Leetcode_doc/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Bitmask
 |  |
@@ -318,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/1140-stone-game-ii) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
