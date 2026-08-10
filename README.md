@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/himanshuR239/Leetcode_doc/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1463-cherry-pickup-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/1463-cherry-pickup-ii) |
 | [1478-allocate-mailboxes](https://github.com/himanshuR239/Leetcode_doc/tree/master/1478-allocate-mailboxes) |
+| [1510-stone-game-iv](https://github.com/himanshuR239/Leetcode_doc/tree/master/1510-stone-game-iv) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/himanshuR239/Leetcode_doc/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1824-minimum-sideway-jumps](https://github.com/himanshuR239/Leetcode_doc/tree/master/1824-minimum-sideway-jumps) |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/himanshuR239/Leetcode_doc/tree/master/1931-painting-a-grid-with-three-different-colors) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/himanshuR239/Leetcode_doc/tree/master/1406-stone-game-iii) |
 | [1478-allocate-mailboxes](https://github.com/himanshuR239/Leetcode_doc/tree/master/1478-allocate-mailboxes) |
+| [1510-stone-game-iv](https://github.com/himanshuR239/Leetcode_doc/tree/master/1510-stone-game-iv) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/himanshuR239/Leetcode_doc/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Concurrency
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/himanshuR239/Leetcode_doc/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/himanshuR239/Leetcode_doc/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/himanshuR239/Leetcode_doc/tree/master/1510-stone-game-iv) |
 ## Linked List
 |  |
 | ------- |
@@ -328,12 +331,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/himanshuR239/Leetcode_doc/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/himanshuR239/Leetcode_doc/tree/master/1510-stone-game-iv) |
 ## Hamiltonian Path
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0980-unique-paths-iii) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/himanshuR239/Leetcode_doc/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/himanshuR239/Leetcode_doc/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
