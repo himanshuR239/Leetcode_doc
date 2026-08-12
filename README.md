@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/himanshuR239/Leetcode_doc/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/himanshuR239/Leetcode_doc/tree/master/0853-car-fleet) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0875-koko-eating-bananas](https://github.com/himanshuR239/Leetcode_doc/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/himanshuR239/Leetcode_doc/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/himanshuR239/Leetcode_doc/tree/master/0879-profitable-schemes) |
 | [0904-fruit-into-baskets](https://github.com/himanshuR239/Leetcode_doc/tree/master/0904-fruit-into-baskets) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/himanshuR239/Leetcode_doc/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshuR239/Leetcode_doc/tree/master/0209-minimum-size-subarray-sum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0875-koko-eating-bananas](https://github.com/himanshuR239/Leetcode_doc/tree/master/0875-koko-eating-bananas) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/himanshuR239/Leetcode_doc/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [2008-maximum-earnings-from-taxi](https://github.com/himanshuR239/Leetcode_doc/tree/master/2008-maximum-earnings-from-taxi) |
 ## Sliding Window
