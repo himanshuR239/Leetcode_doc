@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/himanshuR239/Leetcode_doc/tree/master/0904-fruit-into-baskets) |
 | [0980-unique-paths-iii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0980-unique-paths-iii) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/himanshuR239/Leetcode_doc/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/himanshuR239/Leetcode_doc/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1140-stone-game-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/1140-stone-game-ii) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/himanshuR239/Leetcode_doc/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/himanshuR239/Leetcode_doc/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/himanshuR239/Leetcode_doc/tree/master/0238-product-of-array-except-self) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/himanshuR239/Leetcode_doc/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/himanshuR239/Leetcode_doc/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1140-stone-game-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/1140-stone-game-ii) |
 | [2488-count-subarrays-with-median-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/2488-count-subarrays-with-median-k) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/himanshuR239/Leetcode_doc/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/himanshuR239/Leetcode_doc/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/himanshuR239/Leetcode_doc/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/himanshuR239/Leetcode_doc/tree/master/0981-time-based-key-value-store) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/himanshuR239/Leetcode_doc/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/himanshuR239/Leetcode_doc/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2008-maximum-earnings-from-taxi](https://github.com/himanshuR239/Leetcode_doc/tree/master/2008-maximum-earnings-from-taxi) |
 | [2488-count-subarrays-with-median-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/2488-count-subarrays-with-median-k) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/himanshuR239/Leetcode_doc/tree/master/0074-search-a-2d-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0407-trapping-rain-water-ii) |
 | [0980-unique-paths-iii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0980-unique-paths-iii) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/himanshuR239/Leetcode_doc/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/himanshuR239/Leetcode_doc/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1463-cherry-pickup-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/1463-cherry-pickup-ii) |
 ## Depth-First Search
