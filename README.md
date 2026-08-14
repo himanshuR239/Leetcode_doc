@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/himanshuR239/Leetcode_doc/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/himanshuR239/Leetcode_doc/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0877-stone-game](https://github.com/himanshuR239/Leetcode_doc/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/1140-stone-game-ii) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/himanshuR239/Leetcode_doc/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/himanshuR239/Leetcode_doc/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/himanshuR239/Leetcode_doc/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/himanshuR239/Leetcode_doc/tree/master/0143-reorder-list) |
@@ -432,5 +434,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/himanshuR239/Leetcode_doc/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/himanshuR239/Leetcode_doc/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
