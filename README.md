@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshuR239/Leetcode_doc/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/himanshuR239/Leetcode_doc/tree/master/0036-valid-sudoku) |
+| [0138-copy-list-with-random-pointer](https://github.com/himanshuR239/Leetcode_doc/tree/master/0138-copy-list-with-random-pointer) |
 | [0187-repeated-dna-sequences](https://github.com/himanshuR239/Leetcode_doc/tree/master/0187-repeated-dna-sequences) |
 | [0347-top-k-frequent-elements](https://github.com/himanshuR239/Leetcode_doc/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshuR239/Leetcode_doc/tree/master/0424-longest-repeating-character-replacement) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/himanshuR239/Leetcode_doc/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/himanshuR239/Leetcode_doc/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/himanshuR239/Leetcode_doc/tree/master/0143-reorder-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/himanshuR239/Leetcode_doc/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
