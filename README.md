@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshuR239/Leetcode_doc/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/himanshuR239/Leetcode_doc/tree/master/1377-frog-position-after-t-seconds) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/himanshuR239/Leetcode_doc/tree/master/3068-find-the-maximum-sum-of-node-values) |
 ## Math
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshuR239/Leetcode_doc/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/himanshuR239/Leetcode_doc/tree/master/1377-frog-position-after-t-seconds) |
 | [3310-remove-methods-from-project](https://github.com/himanshuR239/Leetcode_doc/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -490,4 +492,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0731-my-calendar-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0732-my-calendar-iii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshuR239/Leetcode_doc/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshuR239/Leetcode_doc/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshuR239/Leetcode_doc/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshuR239/Leetcode_doc/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
