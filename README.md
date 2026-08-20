@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/himanshuR239/Leetcode_doc/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0407-trapping-rain-water-ii) |
 | [0502-ipo](https://github.com/himanshuR239/Leetcode_doc/tree/master/0502-ipo) |
+| [0546-remove-boxes](https://github.com/himanshuR239/Leetcode_doc/tree/master/0546-remove-boxes) |
 | [0731-my-calendar-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/himanshuR239/Leetcode_doc/tree/master/0739-daily-temperatures) |
 | [0752-open-the-lock](https://github.com/himanshuR239/Leetcode_doc/tree/master/0752-open-the-lock) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/himanshuR239/Leetcode_doc/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/himanshuR239/Leetcode_doc/tree/master/0042-trapping-rain-water) |
+| [0546-remove-boxes](https://github.com/himanshuR239/Leetcode_doc/tree/master/0546-remove-boxes) |
 | [0773-sliding-puzzle](https://github.com/himanshuR239/Leetcode_doc/tree/master/0773-sliding-puzzle) |
 | [0790-domino-and-tromino-tiling](https://github.com/himanshuR239/Leetcode_doc/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/himanshuR239/Leetcode_doc/tree/master/0877-stone-game) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0546-remove-boxes](https://github.com/himanshuR239/Leetcode_doc/tree/master/0546-remove-boxes) |
 | [0773-sliding-puzzle](https://github.com/himanshuR239/Leetcode_doc/tree/master/0773-sliding-puzzle) |
 ## Heuristic Search
 |  |
