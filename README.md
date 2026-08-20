@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-count-subarrays-with-median-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/2488-count-subarrays-with-median-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/himanshuR239/Leetcode_doc/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/himanshuR239/Leetcode_doc/tree/master/3068-find-the-maximum-sum-of-node-values) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/himanshuR239/Leetcode_doc/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/himanshuR239/Leetcode_doc/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/himanshuR239/Leetcode_doc/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/himanshuR239/Leetcode_doc/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1409-queries-on-a-permutation-with-key](https://github.com/himanshuR239/Leetcode_doc/tree/master/1409-queries-on-a-permutation-with-key) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/himanshuR239/Leetcode_doc/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sqrt Decomposition
 |  |
 | ------- |
