@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/himanshuR239/Leetcode_doc/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/himanshuR239/Leetcode_doc/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/himanshuR239/Leetcode_doc/tree/master/0295-find-median-from-data-stream) |
 | [0321-create-maximum-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0321-create-maximum-number) |
 ## Stack
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/himanshuR239/Leetcode_doc/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/himanshuR239/Leetcode_doc/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/himanshuR239/Leetcode_doc/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/himanshuR239/Leetcode_doc/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/himanshuR239/Leetcode_doc/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/himanshuR239/Leetcode_doc/tree/master/0355-design-twitter) |
 | [0407-trapping-rain-water-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0407-trapping-rain-water-ii) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/himanshuR239/Leetcode_doc/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/himanshuR239/Leetcode_doc/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/himanshuR239/Leetcode_doc/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/himanshuR239/Leetcode_doc/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/himanshuR239/Leetcode_doc/tree/master/0502-ipo) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/himanshuR239/Leetcode_doc/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/himanshuR239/Leetcode_doc/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/himanshuR239/Leetcode_doc/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/himanshuR239/Leetcode_doc/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0731-my-calendar-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0731-my-calendar-ii) |
@@ -612,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/himanshuR239/Leetcode_doc/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/himanshuR239/Leetcode_doc/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Geometry
 |  |
