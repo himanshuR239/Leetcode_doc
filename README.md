@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/himanshuR239/Leetcode_doc/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/himanshuR239/Leetcode_doc/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/himanshuR239/Leetcode_doc/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/himanshuR239/Leetcode_doc/tree/master/0355-design-twitter) |
 | [0407-trapping-rain-water-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0407-trapping-rain-water-ii) |
 | [0502-ipo](https://github.com/himanshuR239/Leetcode_doc/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/himanshuR239/Leetcode_doc/tree/master/0621-task-scheduler) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/himanshuR239/Leetcode_doc/tree/master/0138-copy-list-with-random-pointer) |
 | [0187-repeated-dna-sequences](https://github.com/himanshuR239/Leetcode_doc/tree/master/0187-repeated-dna-sequences) |
 | [0347-top-k-frequent-elements](https://github.com/himanshuR239/Leetcode_doc/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/himanshuR239/Leetcode_doc/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshuR239/Leetcode_doc/tree/master/0424-longest-repeating-character-replacement) |
 | [0621-task-scheduler](https://github.com/himanshuR239/Leetcode_doc/tree/master/0621-task-scheduler) |
 | [0752-open-the-lock](https://github.com/himanshuR239/Leetcode_doc/tree/master/0752-open-the-lock) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/himanshuR239/Leetcode_doc/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/himanshuR239/Leetcode_doc/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/himanshuR239/Leetcode_doc/tree/master/0143-reorder-list) |
+| [0355-design-twitter](https://github.com/himanshuR239/Leetcode_doc/tree/master/0355-design-twitter) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/himanshuR239/Leetcode_doc/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/himanshuR239/Leetcode_doc/tree/master/0155-min-stack) |
+| [0355-design-twitter](https://github.com/himanshuR239/Leetcode_doc/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/himanshuR239/Leetcode_doc/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0731-my-calendar-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0732-my-calendar-iii) |
