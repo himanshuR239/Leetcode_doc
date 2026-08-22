@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/himanshuR239/Leetcode_doc/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/himanshuR239/Leetcode_doc/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/himanshuR239/Leetcode_doc/tree/master/0042-trapping-rain-water) |
 | [0546-remove-boxes](https://github.com/himanshuR239/Leetcode_doc/tree/master/0546-remove-boxes) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshuR239/Leetcode_doc/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/himanshuR239/Leetcode_doc/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/himanshuR239/Leetcode_doc/tree/master/0032-longest-valid-parentheses) |
 | [0187-repeated-dna-sequences](https://github.com/himanshuR239/Leetcode_doc/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/himanshuR239/Leetcode_doc/tree/master/0214-shortest-palindrome) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/himanshuR239/Leetcode_doc/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/himanshuR239/Leetcode_doc/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/himanshuR239/Leetcode_doc/tree/master/0046-permutations) |
@@ -646,5 +649,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/himanshuR239/Leetcode_doc/tree/master/0022-generate-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/himanshuR239/Leetcode_doc/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
