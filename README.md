@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/himanshuR239/Leetcode_doc/tree/master/1510-stone-game-iv) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/himanshuR239/Leetcode_doc/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/himanshuR239/Leetcode_doc/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/himanshuR239/Leetcode_doc/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Concurrency
 |  |
 | ------- |
