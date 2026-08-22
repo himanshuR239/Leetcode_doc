@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/himanshuR239/Leetcode_doc/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/himanshuR239/Leetcode_doc/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/himanshuR239/Leetcode_doc/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/himanshuR239/Leetcode_doc/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/himanshuR239/Leetcode_doc/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/himanshuR239/Leetcode_doc/tree/master/0134-gas-station) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshuR239/Leetcode_doc/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/himanshuR239/Leetcode_doc/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/himanshuR239/Leetcode_doc/tree/master/0032-longest-valid-parentheses) |
+| [0079-word-search](https://github.com/himanshuR239/Leetcode_doc/tree/master/0079-word-search) |
 | [0187-repeated-dna-sequences](https://github.com/himanshuR239/Leetcode_doc/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/himanshuR239/Leetcode_doc/tree/master/0214-shortest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshuR239/Leetcode_doc/tree/master/0424-longest-repeating-character-replacement) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/himanshuR239/Leetcode_doc/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/himanshuR239/Leetcode_doc/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/himanshuR239/Leetcode_doc/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0407-trapping-rain-water-ii) |
 | [0773-sliding-puzzle](https://github.com/himanshuR239/Leetcode_doc/tree/master/0773-sliding-puzzle) |
 | [0980-unique-paths-iii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0980-unique-paths-iii) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/himanshuR239/Leetcode_doc/tree/master/0079-word-search) |
 | [0199-binary-tree-right-side-view](https://github.com/himanshuR239/Leetcode_doc/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshuR239/Leetcode_doc/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/himanshuR239/Leetcode_doc/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/himanshuR239/Leetcode_doc/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/himanshuR239/Leetcode_doc/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/himanshuR239/Leetcode_doc/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0090-subsets-ii) |
 | [0773-sliding-puzzle](https://github.com/himanshuR239/Leetcode_doc/tree/master/0773-sliding-puzzle) |
 | [0980-unique-paths-iii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0980-unique-paths-iii) |
