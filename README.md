@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/himanshuR239/Leetcode_doc/tree/master/0853-car-fleet) |
 | [0880-decoded-string-at-index](https://github.com/himanshuR239/Leetcode_doc/tree/master/0880-decoded-string-at-index) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/himanshuR239/Leetcode_doc/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/himanshuR239/Leetcode_doc/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/himanshuR239/Leetcode_doc/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/himanshuR239/Leetcode_doc/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Greedy
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/himanshuR239/Leetcode_doc/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/himanshuR239/Leetcode_doc/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1392-longest-happy-prefix](https://github.com/himanshuR239/Leetcode_doc/tree/master/1392-longest-happy-prefix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/himanshuR239/Leetcode_doc/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/himanshuR239/Leetcode_doc/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Database
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1409-queries-on-a-permutation-with-key](https://github.com/himanshuR239/Leetcode_doc/tree/master/1409-queries-on-a-permutation-with-key) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/himanshuR239/Leetcode_doc/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/himanshuR239/Leetcode_doc/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sqrt Decomposition
 |  |
