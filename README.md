@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshuR239/Leetcode_doc/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/himanshuR239/Leetcode_doc/tree/master/0036-valid-sudoku) |
+| [0127-word-ladder](https://github.com/himanshuR239/Leetcode_doc/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/himanshuR239/Leetcode_doc/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/himanshuR239/Leetcode_doc/tree/master/0138-copy-list-with-random-pointer) |
 | [0187-repeated-dna-sequences](https://github.com/himanshuR239/Leetcode_doc/tree/master/0187-repeated-dna-sequences) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/himanshuR239/Leetcode_doc/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/himanshuR239/Leetcode_doc/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/himanshuR239/Leetcode_doc/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/himanshuR239/Leetcode_doc/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/himanshuR239/Leetcode_doc/tree/master/0131-palindrome-partitioning) |
 | [0187-repeated-dna-sequences](https://github.com/himanshuR239/Leetcode_doc/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/himanshuR239/Leetcode_doc/tree/master/0214-shortest-palindrome) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/himanshuR239/Leetcode_doc/tree/master/0102-binary-tree-level-order-traversal) |
+| [0127-word-ladder](https://github.com/himanshuR239/Leetcode_doc/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/himanshuR239/Leetcode_doc/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/himanshuR239/Leetcode_doc/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/himanshuR239/Leetcode_doc/tree/master/0199-binary-tree-right-side-view) |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bidirectional Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/himanshuR239/Leetcode_doc/tree/master/0127-word-ladder) |
 | [0752-open-the-lock](https://github.com/himanshuR239/Leetcode_doc/tree/master/0752-open-the-lock) |
 | [0773-sliding-puzzle](https://github.com/himanshuR239/Leetcode_doc/tree/master/0773-sliding-puzzle) |
 ## Memoization
