@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/himanshuR239/Leetcode_doc/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/himanshuR239/Leetcode_doc/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/himanshuR239/Leetcode_doc/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/himanshuR239/Leetcode_doc/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/himanshuR239/Leetcode_doc/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/himanshuR239/Leetcode_doc/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/himanshuR239/Leetcode_doc/tree/master/0084-largest-rectangle-in-histogram) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/himanshuR239/Leetcode_doc/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/himanshuR239/Leetcode_doc/tree/master/0134-gas-station) |
 | [0321-create-maximum-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0324-wiggle-sort-ii) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/himanshuR239/Leetcode_doc/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/himanshuR239/Leetcode_doc/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/himanshuR239/Leetcode_doc/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/himanshuR239/Leetcode_doc/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/himanshuR239/Leetcode_doc/tree/master/0131-palindrome-partitioning) |
 | [0546-remove-boxes](https://github.com/himanshuR239/Leetcode_doc/tree/master/0546-remove-boxes) |
 | [0773-sliding-puzzle](https://github.com/himanshuR239/Leetcode_doc/tree/master/0773-sliding-puzzle) |
