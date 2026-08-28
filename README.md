@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/himanshuR239/Leetcode_doc/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/himanshuR239/Leetcode_doc/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/himanshuR239/Leetcode_doc/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/himanshuR239/Leetcode_doc/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/himanshuR239/Leetcode_doc/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Greedy
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1824-minimum-sideway-jumps](https://github.com/himanshuR239/Leetcode_doc/tree/master/1824-minimum-sideway-jumps) |
 | [1927-sum-game](https://github.com/himanshuR239/Leetcode_doc/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/himanshuR239/Leetcode_doc/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/himanshuR239/Leetcode_doc/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/himanshuR239/Leetcode_doc/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/himanshuR239/Leetcode_doc/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/himanshuR239/Leetcode_doc/tree/master/0853-car-fleet) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/himanshuR239/Leetcode_doc/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/himanshuR239/Leetcode_doc/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/himanshuR239/Leetcode_doc/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/himanshuR239/Leetcode_doc/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Binary Search
 |  |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/himanshuR239/Leetcode_doc/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/himanshuR239/Leetcode_doc/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/himanshuR239/Leetcode_doc/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/himanshuR239/Leetcode_doc/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/himanshuR239/Leetcode_doc/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Database
