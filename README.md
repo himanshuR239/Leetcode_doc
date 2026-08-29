@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/himanshuR239/Leetcode_doc/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0321-create-maximum-number) |
+| [0322-coin-change](https://github.com/himanshuR239/Leetcode_doc/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/himanshuR239/Leetcode_doc/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0407-trapping-rain-water-ii) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/himanshuR239/Leetcode_doc/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/himanshuR239/Leetcode_doc/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/himanshuR239/Leetcode_doc/tree/master/0322-coin-change) |
 | [0546-remove-boxes](https://github.com/himanshuR239/Leetcode_doc/tree/master/0546-remove-boxes) |
 | [0746-min-cost-climbing-stairs](https://github.com/himanshuR239/Leetcode_doc/tree/master/0746-min-cost-climbing-stairs) |
 | [0773-sliding-puzzle](https://github.com/himanshuR239/Leetcode_doc/tree/master/0773-sliding-puzzle) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/himanshuR239/Leetcode_doc/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/himanshuR239/Leetcode_doc/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/himanshuR239/Leetcode_doc/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/himanshuR239/Leetcode_doc/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/himanshuR239/Leetcode_doc/tree/master/0684-redundant-connection) |
@@ -781,4 +784,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/himanshuR239/Leetcode_doc/tree/master/0005-longest-palindromic-substring) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/himanshuR239/Leetcode_doc/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/himanshuR239/Leetcode_doc/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
