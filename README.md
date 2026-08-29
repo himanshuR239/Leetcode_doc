@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/himanshuR239/Leetcode_doc/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/himanshuR239/Leetcode_doc/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/himanshuR239/Leetcode_doc/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/himanshuR239/Leetcode_doc/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/himanshuR239/Leetcode_doc/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/himanshuR239/Leetcode_doc/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/himanshuR239/Leetcode_doc/tree/master/0079-word-search) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/himanshuR239/Leetcode_doc/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/himanshuR239/Leetcode_doc/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/himanshuR239/Leetcode_doc/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/himanshuR239/Leetcode_doc/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/himanshuR239/Leetcode_doc/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/himanshuR239/Leetcode_doc/tree/master/0130-surrounded-regions) |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/himanshuR239/Leetcode_doc/tree/master/0054-spiral-matrix) |
 | [1222-queens-that-can-attack-the-king](https://github.com/himanshuR239/Leetcode_doc/tree/master/1222-queens-that-can-attack-the-king) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/himanshuR239/Leetcode_doc/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/himanshuR239/Leetcode_doc/tree/master/1910-remove-all-occurrences-of-a-substring) |
