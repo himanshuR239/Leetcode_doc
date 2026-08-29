@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/himanshuR239/Leetcode_doc/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/himanshuR239/Leetcode_doc/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/himanshuR239/Leetcode_doc/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshuR239/Leetcode_doc/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/himanshuR239/Leetcode_doc/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/himanshuR239/Leetcode_doc/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1463-cherry-pickup-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/1463-cherry-pickup-ii) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/himanshuR239/Leetcode_doc/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/himanshuR239/Leetcode_doc/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/himanshuR239/Leetcode_doc/tree/master/0968-binary-tree-cameras) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshuR239/Leetcode_doc/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/himanshuR239/Leetcode_doc/tree/master/1377-frog-position-after-t-seconds) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/himanshuR239/Leetcode_doc/tree/master/3068-find-the-maximum-sum-of-node-values) |
 ## Math
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/himanshuR239/Leetcode_doc/tree/master/0684-redundant-connection) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/himanshuR239/Leetcode_doc/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/himanshuR239/Leetcode_doc/tree/master/0968-binary-tree-cameras) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshuR239/Leetcode_doc/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/himanshuR239/Leetcode_doc/tree/master/1377-frog-position-after-t-seconds) |
 | [3310-remove-methods-from-project](https://github.com/himanshuR239/Leetcode_doc/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -676,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshuR239/Leetcode_doc/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/himanshuR239/Leetcode_doc/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshuR239/Leetcode_doc/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -685,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/himanshuR239/Leetcode_doc/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/himanshuR239/Leetcode_doc/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/himanshuR239/Leetcode_doc/tree/master/0968-binary-tree-cameras) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshuR239/Leetcode_doc/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -740,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/himanshuR239/Leetcode_doc/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/himanshuR239/Leetcode_doc/tree/master/0968-binary-tree-cameras) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshuR239/Leetcode_doc/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
