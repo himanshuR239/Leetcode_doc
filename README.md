@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/himanshuR239/Leetcode_doc/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/himanshuR239/Leetcode_doc/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/himanshuR239/Leetcode_doc/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/himanshuR239/Leetcode_doc/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/himanshuR239/Leetcode_doc/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/himanshuR239/Leetcode_doc/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/himanshuR239/Leetcode_doc/tree/master/0084-largest-rectangle-in-histogram) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshuR239/Leetcode_doc/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/himanshuR239/Leetcode_doc/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/himanshuR239/Leetcode_doc/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/himanshuR239/Leetcode_doc/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/himanshuR239/Leetcode_doc/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/himanshuR239/Leetcode_doc/tree/master/0138-copy-list-with-random-pointer) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/himanshuR239/Leetcode_doc/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/himanshuR239/Leetcode_doc/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/himanshuR239/Leetcode_doc/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/himanshuR239/Leetcode_doc/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/himanshuR239/Leetcode_doc/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/himanshuR239/Leetcode_doc/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/himanshuR239/Leetcode_doc/tree/master/0130-surrounded-regions) |
