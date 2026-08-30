@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/himanshuR239/Leetcode_doc/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/himanshuR239/Leetcode_doc/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/himanshuR239/Leetcode_doc/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/himanshuR239/Leetcode_doc/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/himanshuR239/Leetcode_doc/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/himanshuR239/Leetcode_doc/tree/master/0198-house-robber) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/himanshuR239/Leetcode_doc/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/himanshuR239/Leetcode_doc/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/himanshuR239/Leetcode_doc/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/himanshuR239/Leetcode_doc/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/himanshuR239/Leetcode_doc/tree/master/0187-repeated-dna-sequences) |
 | [0347-top-k-frequent-elements](https://github.com/himanshuR239/Leetcode_doc/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/himanshuR239/Leetcode_doc/tree/master/0355-design-twitter) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/himanshuR239/Leetcode_doc/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/himanshuR239/Leetcode_doc/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/himanshuR239/Leetcode_doc/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/himanshuR239/Leetcode_doc/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/himanshuR239/Leetcode_doc/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/himanshuR239/Leetcode_doc/tree/master/0322-coin-change) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/himanshuR239/Leetcode_doc/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/himanshuR239/Leetcode_doc/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/himanshuR239/Leetcode_doc/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/himanshuR239/Leetcode_doc/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/himanshuR239/Leetcode_doc/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/himanshuR239/Leetcode_doc/tree/master/0214-shortest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshuR239/Leetcode_doc/tree/master/0424-longest-repeating-character-replacement) |
@@ -583,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brute-Force Search
 |  |
 | ------- |
+| [0139-word-break](https://github.com/himanshuR239/Leetcode_doc/tree/master/0139-word-break) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/himanshuR239/Leetcode_doc/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Graph Coloring
 |  |
@@ -635,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/himanshuR239/Leetcode_doc/tree/master/0139-word-break) |
 | [0546-remove-boxes](https://github.com/himanshuR239/Leetcode_doc/tree/master/0546-remove-boxes) |
 | [0773-sliding-puzzle](https://github.com/himanshuR239/Leetcode_doc/tree/master/0773-sliding-puzzle) |
 ## Heuristic Search
@@ -792,4 +798,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/himanshuR239/Leetcode_doc/tree/master/0322-coin-change) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/himanshuR239/Leetcode_doc/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
