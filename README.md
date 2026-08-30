@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/himanshuR239/Leetcode_doc/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/himanshuR239/Leetcode_doc/tree/master/0155-min-stack) |
 | [0321-create-maximum-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0321-create-maximum-number) |
+| [0678-valid-parenthesis-string](https://github.com/himanshuR239/Leetcode_doc/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/himanshuR239/Leetcode_doc/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/himanshuR239/Leetcode_doc/tree/master/0853-car-fleet) |
 | [0880-decoded-string-at-index](https://github.com/himanshuR239/Leetcode_doc/tree/master/0880-decoded-string-at-index) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0324-wiggle-sort-ii) |
 | [0502-ipo](https://github.com/himanshuR239/Leetcode_doc/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/himanshuR239/Leetcode_doc/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/himanshuR239/Leetcode_doc/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/himanshuR239/Leetcode_doc/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/himanshuR239/Leetcode_doc/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/himanshuR239/Leetcode_doc/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/himanshuR239/Leetcode_doc/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/himanshuR239/Leetcode_doc/tree/master/0416-partition-equal-subset-sum) |
 | [0546-remove-boxes](https://github.com/himanshuR239/Leetcode_doc/tree/master/0546-remove-boxes) |
+| [0678-valid-parenthesis-string](https://github.com/himanshuR239/Leetcode_doc/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/himanshuR239/Leetcode_doc/tree/master/0746-min-cost-climbing-stairs) |
 | [0773-sliding-puzzle](https://github.com/himanshuR239/Leetcode_doc/tree/master/0773-sliding-puzzle) |
 | [0790-domino-and-tromino-tiling](https://github.com/himanshuR239/Leetcode_doc/tree/master/0790-domino-and-tromino-tiling) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/himanshuR239/Leetcode_doc/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/himanshuR239/Leetcode_doc/tree/master/0214-shortest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshuR239/Leetcode_doc/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/himanshuR239/Leetcode_doc/tree/master/0678-valid-parenthesis-string) |
 | [0752-open-the-lock](https://github.com/himanshuR239/Leetcode_doc/tree/master/0752-open-the-lock) |
 | [0880-decoded-string-at-index](https://github.com/himanshuR239/Leetcode_doc/tree/master/0880-decoded-string-at-index) |
 | [0940-distinct-subsequences-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0940-distinct-subsequences-ii) |
@@ -778,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/himanshuR239/Leetcode_doc/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/himanshuR239/Leetcode_doc/tree/master/0678-valid-parenthesis-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/himanshuR239/Leetcode_doc/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Algorithm X
 |  |
