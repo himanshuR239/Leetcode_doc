@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/himanshuR239/Leetcode_doc/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/himanshuR239/Leetcode_doc/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/himanshuR239/Leetcode_doc/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/himanshuR239/Leetcode_doc/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/himanshuR239/Leetcode_doc/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/himanshuR239/Leetcode_doc/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/himanshuR239/Leetcode_doc/tree/master/0074-search-a-2d-matrix) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/himanshuR239/Leetcode_doc/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/himanshuR239/Leetcode_doc/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/himanshuR239/Leetcode_doc/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/himanshuR239/Leetcode_doc/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0324-wiggle-sort-ii) |
@@ -820,4 +822,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/himanshuR239/Leetcode_doc/tree/master/0416-partition-equal-subset-sum) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/himanshuR239/Leetcode_doc/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
