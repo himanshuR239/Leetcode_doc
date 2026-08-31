@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/himanshuR239/Leetcode_doc/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/himanshuR239/Leetcode_doc/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/himanshuR239/Leetcode_doc/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
+| [3686-number-of-stable-subsequences](https://github.com/himanshuR239/Leetcode_doc/tree/master/3686-number-of-stable-subsequences) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/himanshuR239/Leetcode_doc/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/himanshuR239/Leetcode_doc/tree/master/2008-maximum-earnings-from-taxi) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/himanshuR239/Leetcode_doc/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/himanshuR239/Leetcode_doc/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
+| [3686-number-of-stable-subsequences](https://github.com/himanshuR239/Leetcode_doc/tree/master/3686-number-of-stable-subsequences) |
 ## Sorting
 |  |
 | ------- |
