@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/himanshuR239/Leetcode_doc/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/himanshuR239/Leetcode_doc/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/himanshuR239/Leetcode_doc/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/himanshuR239/Leetcode_doc/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/himanshuR239/Leetcode_doc/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/himanshuR239/Leetcode_doc/tree/master/0127-word-ladder) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/himanshuR239/Leetcode_doc/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/himanshuR239/Leetcode_doc/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/himanshuR239/Leetcode_doc/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/himanshuR239/Leetcode_doc/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/himanshuR239/Leetcode_doc/tree/master/0066-plus-one) |
@@ -771,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/himanshuR239/Leetcode_doc/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/himanshuR239/Leetcode_doc/tree/master/0054-spiral-matrix) |
 | [1222-queens-that-can-attack-the-king](https://github.com/himanshuR239/Leetcode_doc/tree/master/1222-queens-that-can-attack-the-king) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/himanshuR239/Leetcode_doc/tree/master/1409-queries-on-a-permutation-with-key) |
