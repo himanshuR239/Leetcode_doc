@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3686-number-of-stable-subsequences](https://github.com/himanshuR239/Leetcode_doc/tree/master/3686-number-of-stable-subsequences) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/himanshuR239/Leetcode_doc/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/himanshuR239/Leetcode_doc/tree/master/1927-sum-game) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/himanshuR239/Leetcode_doc/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/himanshuR239/Leetcode_doc/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Concurrency
 |  |
 | ------- |
