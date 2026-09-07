@@ -1,16 +1,28 @@
 class Solution {
 public:
-    int distinctSubseqII(string s) {
-        int n = s.size();
-        int MOD = 1e9+7;
-        vector<long long> vec(26, 0);
-        
-        for(int i = 0; i < n; i++){
-            long long sum = accumulate(vec.begin(), vec.end(), 1LL) % MOD;
+    int n;
+    int MOD = 1e9+7;
+    using ll = long long;
+    // void solve(int ind, string &s, string cur, unordered_set<string> &st){
+    //     if(ind == n){
+    //         st.insert(cur);
+    //         return;
+    //     }
 
-            vec[s[i] - 'a'] = sum;
+    //     solve(ind+1, s, cur, st);
+    //     solve(ind+1, s, cur + s[ind], st);
+    // }
+
+    int distinctSubseqII(string s) {
+        n = s.size();
+
+        vector<int> sum(26, 0);
+        for(int i = 0; i < n; i++){
+            int tot = accumulate(sum.begin(), sum.end(), 1LL) % MOD;
+
+            sum[s[i] - 'a'] = tot;
         }
 
-        return accumulate(vec.begin(), vec.end(), 0LL) % MOD;
+        return accumulate(sum.begin(), sum.end(), 0LL) % MOD;
     }
 };
