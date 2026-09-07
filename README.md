@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/1463-cherry-pickup-ii) |
 | [1478-allocate-mailboxes](https://github.com/himanshuR239/Leetcode_doc/tree/master/1478-allocate-mailboxes) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/himanshuR239/Leetcode_doc/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1584-min-cost-to-connect-all-points](https://github.com/himanshuR239/Leetcode_doc/tree/master/1584-min-cost-to-connect-all-points) |
 | [1590-make-sum-divisible-by-p](https://github.com/himanshuR239/Leetcode_doc/tree/master/1590-make-sum-divisible-by-p) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/himanshuR239/Leetcode_doc/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1824-minimum-sideway-jumps](https://github.com/himanshuR239/Leetcode_doc/tree/master/1824-minimum-sideway-jumps) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1377-frog-position-after-t-seconds](https://github.com/himanshuR239/Leetcode_doc/tree/master/1377-frog-position-after-t-seconds) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/himanshuR239/Leetcode_doc/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/himanshuR239/Leetcode_doc/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [1584-min-cost-to-connect-all-points](https://github.com/himanshuR239/Leetcode_doc/tree/master/1584-min-cost-to-connect-all-points) |
 | [3310-remove-methods-from-project](https://github.com/himanshuR239/Leetcode_doc/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
 |  |
@@ -783,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/himanshuR239/Leetcode_doc/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/himanshuR239/Leetcode_doc/tree/master/0684-redundant-connection) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/himanshuR239/Leetcode_doc/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [1584-min-cost-to-connect-all-points](https://github.com/himanshuR239/Leetcode_doc/tree/master/1584-min-cost-to-connect-all-points) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/himanshuR239/Leetcode_doc/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Binary Indexed Tree
 |  |
@@ -889,4 +892,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/himanshuR239/Leetcode_doc/tree/master/0332-reconstruct-itinerary) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/himanshuR239/Leetcode_doc/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/himanshuR239/Leetcode_doc/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/himanshuR239/Leetcode_doc/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/himanshuR239/Leetcode_doc/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
