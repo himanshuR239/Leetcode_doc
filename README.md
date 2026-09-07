@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/himanshuR239/Leetcode_doc/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/himanshuR239/Leetcode_doc/tree/master/0875-koko-eating-bananas) |
+| [0878-nth-magical-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0878-nth-magical-number) |
 | [0981-time-based-key-value-store](https://github.com/himanshuR239/Leetcode_doc/tree/master/0981-time-based-key-value-store) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/himanshuR239/Leetcode_doc/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/himanshuR239/Leetcode_doc/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/himanshuR239/Leetcode_doc/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/himanshuR239/Leetcode_doc/tree/master/0877-stone-game) |
+| [0878-nth-magical-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0878-nth-magical-number) |
 | [0973-k-closest-points-to-origin](https://github.com/himanshuR239/Leetcode_doc/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/himanshuR239/Leetcode_doc/tree/master/1406-stone-game-iii) |
@@ -923,4 +925,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/himanshuR239/Leetcode_doc/tree/master/1584-min-cost-to-connect-all-points) |
+## Least Common Multiple
+|  |
+| ------- |
+| [0878-nth-magical-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0878-nth-magical-number) |
+## Inclusion-Exclusion Principle
+|  |
+| ------- |
+| [0878-nth-magical-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0878-nth-magical-number) |
 <!---LeetCode Topics End-->
