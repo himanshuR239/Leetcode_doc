@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/himanshuR239/Leetcode_doc/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/himanshuR239/Leetcode_doc/tree/master/0752-open-the-lock) |
 | [0773-sliding-puzzle](https://github.com/himanshuR239/Leetcode_doc/tree/master/0773-sliding-puzzle) |
+| [0778-swim-in-rising-water](https://github.com/himanshuR239/Leetcode_doc/tree/master/0778-swim-in-rising-water) |
 | [0846-hand-of-straights](https://github.com/himanshuR239/Leetcode_doc/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/himanshuR239/Leetcode_doc/tree/master/0853-car-fleet) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/himanshuR239/Leetcode_doc/tree/master/0300-longest-increasing-subsequence) |
 | [0731-my-calendar-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0732-my-calendar-iii) |
+| [0778-swim-in-rising-water](https://github.com/himanshuR239/Leetcode_doc/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/himanshuR239/Leetcode_doc/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/himanshuR239/Leetcode_doc/tree/master/0981-time-based-key-value-store) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/himanshuR239/Leetcode_doc/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/himanshuR239/Leetcode_doc/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/himanshuR239/Leetcode_doc/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0778-swim-in-rising-water](https://github.com/himanshuR239/Leetcode_doc/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0973-k-closest-points-to-origin](https://github.com/himanshuR239/Leetcode_doc/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/himanshuR239/Leetcode_doc/tree/master/1046-last-stone-weight) |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/himanshuR239/Leetcode_doc/tree/master/0684-redundant-connection) |
 | [0752-open-the-lock](https://github.com/himanshuR239/Leetcode_doc/tree/master/0752-open-the-lock) |
 | [0773-sliding-puzzle](https://github.com/himanshuR239/Leetcode_doc/tree/master/0773-sliding-puzzle) |
+| [0778-swim-in-rising-water](https://github.com/himanshuR239/Leetcode_doc/tree/master/0778-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/himanshuR239/Leetcode_doc/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/himanshuR239/Leetcode_doc/tree/master/0994-rotting-oranges) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/himanshuR239/Leetcode_doc/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -576,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/himanshuR239/Leetcode_doc/tree/master/0417-pacific-atlantic-water-flow) |
 | [0773-sliding-puzzle](https://github.com/himanshuR239/Leetcode_doc/tree/master/0773-sliding-puzzle) |
+| [0778-swim-in-rising-water](https://github.com/himanshuR239/Leetcode_doc/tree/master/0778-swim-in-rising-water) |
 | [0980-unique-paths-iii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/himanshuR239/Leetcode_doc/tree/master/0994-rotting-oranges) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/himanshuR239/Leetcode_doc/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -598,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/himanshuR239/Leetcode_doc/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/himanshuR239/Leetcode_doc/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/himanshuR239/Leetcode_doc/tree/master/0684-redundant-connection) |
+| [0778-swim-in-rising-water](https://github.com/himanshuR239/Leetcode_doc/tree/master/0778-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/himanshuR239/Leetcode_doc/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/himanshuR239/Leetcode_doc/tree/master/0968-binary-tree-cameras) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshuR239/Leetcode_doc/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -651,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/himanshuR239/Leetcode_doc/tree/master/0778-swim-in-rising-water) |
 | [1140-stone-game-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/himanshuR239/Leetcode_doc/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
@@ -777,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/himanshuR239/Leetcode_doc/tree/master/0778-swim-in-rising-water) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/himanshuR239/Leetcode_doc/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Union-Find
 |  |
@@ -784,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/himanshuR239/Leetcode_doc/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/himanshuR239/Leetcode_doc/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/himanshuR239/Leetcode_doc/tree/master/0684-redundant-connection) |
+| [0778-swim-in-rising-water](https://github.com/himanshuR239/Leetcode_doc/tree/master/0778-swim-in-rising-water) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/himanshuR239/Leetcode_doc/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1584-min-cost-to-connect-all-points](https://github.com/himanshuR239/Leetcode_doc/tree/master/1584-min-cost-to-connect-all-points) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/himanshuR239/Leetcode_doc/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
