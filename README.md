@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/himanshuR239/Leetcode_doc/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/himanshuR239/Leetcode_doc/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0778-swim-in-rising-water](https://github.com/himanshuR239/Leetcode_doc/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/himanshuR239/Leetcode_doc/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0973-k-closest-points-to-origin](https://github.com/himanshuR239/Leetcode_doc/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/himanshuR239/Leetcode_doc/tree/master/1046-last-stone-weight) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/himanshuR239/Leetcode_doc/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/himanshuR239/Leetcode_doc/tree/master/0746-min-cost-climbing-stairs) |
 | [0773-sliding-puzzle](https://github.com/himanshuR239/Leetcode_doc/tree/master/0773-sliding-puzzle) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/himanshuR239/Leetcode_doc/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0790-domino-and-tromino-tiling](https://github.com/himanshuR239/Leetcode_doc/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/himanshuR239/Leetcode_doc/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/himanshuR239/Leetcode_doc/tree/master/0879-profitable-schemes) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/himanshuR239/Leetcode_doc/tree/master/0752-open-the-lock) |
 | [0773-sliding-puzzle](https://github.com/himanshuR239/Leetcode_doc/tree/master/0773-sliding-puzzle) |
 | [0778-swim-in-rising-water](https://github.com/himanshuR239/Leetcode_doc/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/himanshuR239/Leetcode_doc/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/himanshuR239/Leetcode_doc/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/himanshuR239/Leetcode_doc/tree/master/0994-rotting-oranges) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/himanshuR239/Leetcode_doc/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/himanshuR239/Leetcode_doc/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/himanshuR239/Leetcode_doc/tree/master/0684-redundant-connection) |
 | [0778-swim-in-rising-water](https://github.com/himanshuR239/Leetcode_doc/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/himanshuR239/Leetcode_doc/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/himanshuR239/Leetcode_doc/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/himanshuR239/Leetcode_doc/tree/master/0968-binary-tree-cameras) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshuR239/Leetcode_doc/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -618,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0210-course-schedule-ii) |
 | [0332-reconstruct-itinerary](https://github.com/himanshuR239/Leetcode_doc/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/himanshuR239/Leetcode_doc/tree/master/0684-redundant-connection) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/himanshuR239/Leetcode_doc/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/himanshuR239/Leetcode_doc/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1377-frog-position-after-t-seconds](https://github.com/himanshuR239/Leetcode_doc/tree/master/1377-frog-position-after-t-seconds) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/himanshuR239/Leetcode_doc/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -776,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/himanshuR239/Leetcode_doc/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/himanshuR239/Leetcode_doc/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## 0-1 BFS
 |  |
