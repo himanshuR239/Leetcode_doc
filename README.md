@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/himanshuR239/Leetcode_doc/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/himanshuR239/Leetcode_doc/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1140-stone-game-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/1140-stone-game-ii) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/himanshuR239/Leetcode_doc/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1590-make-sum-divisible-by-p](https://github.com/himanshuR239/Leetcode_doc/tree/master/1590-make-sum-divisible-by-p) |
 | [2488-count-subarrays-with-median-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/2488-count-subarrays-with-median-k) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/himanshuR239/Leetcode_doc/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/himanshuR239/Leetcode_doc/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/himanshuR239/Leetcode_doc/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/himanshuR239/Leetcode_doc/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/himanshuR239/Leetcode_doc/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/himanshuR239/Leetcode_doc/tree/master/1386-cinema-seat-allocation) |
 | [1590-make-sum-divisible-by-p](https://github.com/himanshuR239/Leetcode_doc/tree/master/1590-make-sum-divisible-by-p) |
 | [2008-maximum-earnings-from-taxi](https://github.com/himanshuR239/Leetcode_doc/tree/master/2008-maximum-earnings-from-taxi) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/himanshuR239/Leetcode_doc/tree/master/0981-time-based-key-value-store) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/himanshuR239/Leetcode_doc/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/himanshuR239/Leetcode_doc/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/himanshuR239/Leetcode_doc/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1392-longest-happy-prefix](https://github.com/himanshuR239/Leetcode_doc/tree/master/1392-longest-happy-prefix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/himanshuR239/Leetcode_doc/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/himanshuR239/Leetcode_doc/tree/master/1927-sum-game) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0980-unique-paths-iii) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/himanshuR239/Leetcode_doc/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/himanshuR239/Leetcode_doc/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/himanshuR239/Leetcode_doc/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/himanshuR239/Leetcode_doc/tree/master/1386-cinema-seat-allocation) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/himanshuR239/Leetcode_doc/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/himanshuR239/Leetcode_doc/tree/master/3068-find-the-maximum-sum-of-node-values) |
