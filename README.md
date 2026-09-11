@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/himanshuR239/Leetcode_doc/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/himanshuR239/Leetcode_doc/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/himanshuR239/Leetcode_doc/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
+| [3483-unique-3-digit-even-numbers](https://github.com/himanshuR239/Leetcode_doc/tree/master/3483-unique-3-digit-even-numbers) |
 | [3686-number-of-stable-subsequences](https://github.com/himanshuR239/Leetcode_doc/tree/master/3686-number-of-stable-subsequences) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/himanshuR239/Leetcode_doc/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-count-subarrays-with-median-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/2488-count-subarrays-with-median-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/himanshuR239/Leetcode_doc/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/himanshuR239/Leetcode_doc/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/himanshuR239/Leetcode_doc/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/himanshuR239/Leetcode_doc/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/himanshuR239/Leetcode_doc/tree/master/0143-reorder-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/himanshuR239/Leetcode_doc/tree/master/3483-unique-3-digit-even-numbers) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -965,4 +968,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0878-nth-magical-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0878-nth-magical-number) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/himanshuR239/Leetcode_doc/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
