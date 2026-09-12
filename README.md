@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/himanshuR239/Leetcode_doc/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2008-maximum-earnings-from-taxi](https://github.com/himanshuR239/Leetcode_doc/tree/master/2008-maximum-earnings-from-taxi) |
 | [2013-detect-squares](https://github.com/himanshuR239/Leetcode_doc/tree/master/2013-detect-squares) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/himanshuR239/Leetcode_doc/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/himanshuR239/Leetcode_doc/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2488-count-subarrays-with-median-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/2488-count-subarrays-with-median-k) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/himanshuR239/Leetcode_doc/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/himanshuR239/Leetcode_doc/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/himanshuR239/Leetcode_doc/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/himanshuR239/Leetcode_doc/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/himanshuR239/Leetcode_doc/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/himanshuR239/Leetcode_doc/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/himanshuR239/Leetcode_doc/tree/master/3068-find-the-maximum-sum-of-node-values) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/himanshuR239/Leetcode_doc/tree/master/1552-magnetic-force-between-two-balls) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/himanshuR239/Leetcode_doc/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2008-maximum-earnings-from-taxi](https://github.com/himanshuR239/Leetcode_doc/tree/master/2008-maximum-earnings-from-taxi) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/himanshuR239/Leetcode_doc/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Sliding Window
 |  |
 | ------- |
