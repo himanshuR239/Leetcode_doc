@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/himanshuR239/Leetcode_doc/tree/master/0295-find-median-from-data-stream) |
 | [0321-create-maximum-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0321-create-maximum-number) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/himanshuR239/Leetcode_doc/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/himanshuR239/Leetcode_doc/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/himanshuR239/Leetcode_doc/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/himanshuR239/Leetcode_doc/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/himanshuR239/Leetcode_doc/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/himanshuR239/Leetcode_doc/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/himanshuR239/Leetcode_doc/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/himanshuR239/Leetcode_doc/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1824-minimum-sideway-jumps](https://github.com/himanshuR239/Leetcode_doc/tree/master/1824-minimum-sideway-jumps) |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/himanshuR239/Leetcode_doc/tree/master/1931-painting-a-grid-with-three-different-colors) |
 | [2008-maximum-earnings-from-taxi](https://github.com/himanshuR239/Leetcode_doc/tree/master/2008-maximum-earnings-from-taxi) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/himanshuR239/Leetcode_doc/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/himanshuR239/Leetcode_doc/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/himanshuR239/Leetcode_doc/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3686-number-of-stable-subsequences](https://github.com/himanshuR239/Leetcode_doc/tree/master/3686-number-of-stable-subsequences) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/himanshuR239/Leetcode_doc/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/himanshuR239/Leetcode_doc/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/himanshuR239/Leetcode_doc/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/himanshuR239/Leetcode_doc/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/himanshuR239/Leetcode_doc/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Database
