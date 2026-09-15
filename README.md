@@ -601,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/himanshuR239/Leetcode_doc/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1377-frog-position-after-t-seconds](https://github.com/himanshuR239/Leetcode_doc/tree/master/1377-frog-position-after-t-seconds) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/himanshuR239/Leetcode_doc/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/himanshuR239/Leetcode_doc/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [3310-remove-methods-from-project](https://github.com/himanshuR239/Leetcode_doc/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshuR239/Leetcode_doc/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/himanshuR239/Leetcode_doc/tree/master/1377-frog-position-after-t-seconds) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/himanshuR239/Leetcode_doc/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/himanshuR239/Leetcode_doc/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [3310-remove-methods-from-project](https://github.com/himanshuR239/Leetcode_doc/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/himanshuR239/Leetcode_doc/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/himanshuR239/Leetcode_doc/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1584-min-cost-to-connect-all-points](https://github.com/himanshuR239/Leetcode_doc/tree/master/1584-min-cost-to-connect-all-points) |
+| [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/himanshuR239/Leetcode_doc/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [3310-remove-methods-from-project](https://github.com/himanshuR239/Leetcode_doc/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
 |  |
@@ -845,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/himanshuR239/Leetcode_doc/tree/master/0778-swim-in-rising-water) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/himanshuR239/Leetcode_doc/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1584-min-cost-to-connect-all-points](https://github.com/himanshuR239/Leetcode_doc/tree/master/1584-min-cost-to-connect-all-points) |
+| [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/himanshuR239/Leetcode_doc/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/himanshuR239/Leetcode_doc/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Binary Indexed Tree
 |  |
