@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/himanshuR239/Leetcode_doc/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/himanshuR239/Leetcode_doc/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/himanshuR239/Leetcode_doc/tree/master/0853-car-fleet) |
+| [0899-orderly-queue](https://github.com/himanshuR239/Leetcode_doc/tree/master/0899-orderly-queue) |
 | [0973-k-closest-points-to-origin](https://github.com/himanshuR239/Leetcode_doc/tree/master/0973-k-closest-points-to-origin) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/himanshuR239/Leetcode_doc/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1478-allocate-mailboxes](https://github.com/himanshuR239/Leetcode_doc/tree/master/1478-allocate-mailboxes) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/himanshuR239/Leetcode_doc/tree/master/0678-valid-parenthesis-string) |
 | [0752-open-the-lock](https://github.com/himanshuR239/Leetcode_doc/tree/master/0752-open-the-lock) |
 | [0880-decoded-string-at-index](https://github.com/himanshuR239/Leetcode_doc/tree/master/0880-decoded-string-at-index) |
+| [0899-orderly-queue](https://github.com/himanshuR239/Leetcode_doc/tree/master/0899-orderly-queue) |
 | [0940-distinct-subsequences-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0940-distinct-subsequences-ii) |
 | [0981-time-based-key-value-store](https://github.com/himanshuR239/Leetcode_doc/tree/master/0981-time-based-key-value-store) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/himanshuR239/Leetcode_doc/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/himanshuR239/Leetcode_doc/tree/master/0877-stone-game) |
 | [0878-nth-magical-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0878-nth-magical-number) |
+| [0899-orderly-queue](https://github.com/himanshuR239/Leetcode_doc/tree/master/0899-orderly-queue) |
 | [0973-k-closest-points-to-origin](https://github.com/himanshuR239/Leetcode_doc/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/himanshuR239/Leetcode_doc/tree/master/1406-stone-game-iii) |
@@ -988,4 +991,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/himanshuR239/Leetcode_doc/tree/master/3483-unique-3-digit-even-numbers) |
+## Lexicographically Minimal String Rotation
+|  |
+| ------- |
+| [0899-orderly-queue](https://github.com/himanshuR239/Leetcode_doc/tree/master/0899-orderly-queue) |
 <!---LeetCode Topics End-->
