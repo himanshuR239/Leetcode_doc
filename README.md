@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/himanshuR239/Leetcode_doc/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/himanshuR239/Leetcode_doc/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/himanshuR239/Leetcode_doc/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/himanshuR239/Leetcode_doc/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/himanshuR239/Leetcode_doc/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/himanshuR239/Leetcode_doc/tree/master/0042-trapping-rain-water) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshuR239/Leetcode_doc/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/himanshuR239/Leetcode_doc/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/himanshuR239/Leetcode_doc/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/himanshuR239/Leetcode_doc/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/himanshuR239/Leetcode_doc/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/himanshuR239/Leetcode_doc/tree/master/0133-clone-graph) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/himanshuR239/Leetcode_doc/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/himanshuR239/Leetcode_doc/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/himanshuR239/Leetcode_doc/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/himanshuR239/Leetcode_doc/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/himanshuR239/Leetcode_doc/tree/master/0073-set-matrix-zeroes) |
@@ -696,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/himanshuR239/Leetcode_doc/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/himanshuR239/Leetcode_doc/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/himanshuR239/Leetcode_doc/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/himanshuR239/Leetcode_doc/tree/master/0046-permutations) |
@@ -923,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/himanshuR239/Leetcode_doc/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/himanshuR239/Leetcode_doc/tree/master/0051-n-queens) |
 ## Topological Sort
 |  |
@@ -1027,4 +1032,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/himanshuR239/Leetcode_doc/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/himanshuR239/Leetcode_doc/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
