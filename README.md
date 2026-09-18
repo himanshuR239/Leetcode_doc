@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/himanshuR239/Leetcode_doc/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/himanshuR239/Leetcode_doc/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1824-minimum-sideway-jumps](https://github.com/himanshuR239/Leetcode_doc/tree/master/1824-minimum-sideway-jumps) |
+| [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/himanshuR239/Leetcode_doc/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/himanshuR239/Leetcode_doc/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1927-sum-game](https://github.com/himanshuR239/Leetcode_doc/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/himanshuR239/Leetcode_doc/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/himanshuR239/Leetcode_doc/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/himanshuR239/Leetcode_doc/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1392-longest-happy-prefix](https://github.com/himanshuR239/Leetcode_doc/tree/master/1392-longest-happy-prefix) |
+| [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/himanshuR239/Leetcode_doc/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/himanshuR239/Leetcode_doc/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/himanshuR239/Leetcode_doc/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/himanshuR239/Leetcode_doc/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
