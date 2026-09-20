@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/himanshuR239/Leetcode_doc/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/himanshuR239/Leetcode_doc/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/himanshuR239/Leetcode_doc/tree/master/0853-car-fleet) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/himanshuR239/Leetcode_doc/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/himanshuR239/Leetcode_doc/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0875-koko-eating-bananas](https://github.com/himanshuR239/Leetcode_doc/tree/master/0875-koko-eating-bananas) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/himanshuR239/Leetcode_doc/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/himanshuR239/Leetcode_doc/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/himanshuR239/Leetcode_doc/tree/master/0846-hand-of-straights) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/himanshuR239/Leetcode_doc/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1029-two-city-scheduling](https://github.com/himanshuR239/Leetcode_doc/tree/master/1029-two-city-scheduling) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/himanshuR239/Leetcode_doc/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/himanshuR239/Leetcode_doc/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/himanshuR239/Leetcode_doc/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0778-swim-in-rising-water](https://github.com/himanshuR239/Leetcode_doc/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/himanshuR239/Leetcode_doc/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/himanshuR239/Leetcode_doc/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0973-k-closest-points-to-origin](https://github.com/himanshuR239/Leetcode_doc/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/himanshuR239/Leetcode_doc/tree/master/1046-last-stone-weight) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/himanshuR239/Leetcode_doc/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0846-hand-of-straights](https://github.com/himanshuR239/Leetcode_doc/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/himanshuR239/Leetcode_doc/tree/master/0853-car-fleet) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/himanshuR239/Leetcode_doc/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0899-orderly-queue](https://github.com/himanshuR239/Leetcode_doc/tree/master/0899-orderly-queue) |
 | [0973-k-closest-points-to-origin](https://github.com/himanshuR239/Leetcode_doc/tree/master/0973-k-closest-points-to-origin) |
 | [1029-two-city-scheduling](https://github.com/himanshuR239/Leetcode_doc/tree/master/1029-two-city-scheduling) |
