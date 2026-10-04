@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-allocate-mailboxes](https://github.com/himanshuR239/Leetcode_doc/tree/master/1478-allocate-mailboxes) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/himanshuR239/Leetcode_doc/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/himanshuR239/Leetcode_doc/tree/master/1552-magnetic-force-between-two-balls) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/himanshuR239/Leetcode_doc/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1584-min-cost-to-connect-all-points](https://github.com/himanshuR239/Leetcode_doc/tree/master/1584-min-cost-to-connect-all-points) |
 | [1590-make-sum-divisible-by-p](https://github.com/himanshuR239/Leetcode_doc/tree/master/1590-make-sum-divisible-by-p) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/himanshuR239/Leetcode_doc/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/himanshuR239/Leetcode_doc/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1377-frog-position-after-t-seconds](https://github.com/himanshuR239/Leetcode_doc/tree/master/1377-frog-position-after-t-seconds) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/himanshuR239/Leetcode_doc/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/himanshuR239/Leetcode_doc/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/himanshuR239/Leetcode_doc/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [3310-remove-methods-from-project](https://github.com/himanshuR239/Leetcode_doc/tree/master/3310-remove-methods-from-project) |
 ## Matrix
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/himanshuR239/Leetcode_doc/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/himanshuR239/Leetcode_doc/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1463-cherry-pickup-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/1463-cherry-pickup-ii) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/himanshuR239/Leetcode_doc/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/himanshuR239/Leetcode_doc/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 ## Depth-First Search
 |  |
@@ -695,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshuR239/Leetcode_doc/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/himanshuR239/Leetcode_doc/tree/master/1377-frog-position-after-t-seconds) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/himanshuR239/Leetcode_doc/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/himanshuR239/Leetcode_doc/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/himanshuR239/Leetcode_doc/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [3310-remove-methods-from-project](https://github.com/himanshuR239/Leetcode_doc/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -1062,4 +1066,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/himanshuR239/Leetcode_doc/tree/master/0037-sudoku-solver) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/himanshuR239/Leetcode_doc/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+## Articulation Point
+|  |
+| ------- |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/himanshuR239/Leetcode_doc/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
