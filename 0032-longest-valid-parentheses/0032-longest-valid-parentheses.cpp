@@ -13,6 +13,7 @@ public:
             }
             else{
                 st.pop();
+
                 if(st.empty()){
                     st.push(i);
                 }
