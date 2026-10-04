@@ -710,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/himanshuR239/Leetcode_doc/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1377-frog-position-after-t-seconds](https://github.com/himanshuR239/Leetcode_doc/tree/master/1377-frog-position-after-t-seconds) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/himanshuR239/Leetcode_doc/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/himanshuR239/Leetcode_doc/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/himanshuR239/Leetcode_doc/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1584-min-cost-to-connect-all-points](https://github.com/himanshuR239/Leetcode_doc/tree/master/1584-min-cost-to-connect-all-points) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/himanshuR239/Leetcode_doc/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
@@ -961,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/himanshuR239/Leetcode_doc/tree/master/0207-course-schedule) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/himanshuR239/Leetcode_doc/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Manacher
 |  |
 | ------- |
