@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/himanshuR239/Leetcode_doc/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/himanshuR239/Leetcode_doc/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/himanshuR239/Leetcode_doc/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/himanshuR239/Leetcode_doc/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/himanshuR239/Leetcode_doc/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/himanshuR239/Leetcode_doc/tree/master/0198-house-robber) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/himanshuR239/Leetcode_doc/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/himanshuR239/Leetcode_doc/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/himanshuR239/Leetcode_doc/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/himanshuR239/Leetcode_doc/tree/master/0149-max-points-on-a-line) |
 | [0187-repeated-dna-sequences](https://github.com/himanshuR239/Leetcode_doc/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/himanshuR239/Leetcode_doc/tree/master/0208-implement-trie-prefix-tree) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/himanshuR239/Leetcode_doc/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/himanshuR239/Leetcode_doc/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/himanshuR239/Leetcode_doc/tree/master/0066-plus-one) |
+| [0149-max-points-on-a-line](https://github.com/himanshuR239/Leetcode_doc/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/himanshuR239/Leetcode_doc/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/himanshuR239/Leetcode_doc/tree/master/0877-stone-game) |
@@ -945,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/himanshuR239/Leetcode_doc/tree/master/0149-max-points-on-a-line) |
 | [0973-k-closest-points-to-origin](https://github.com/himanshuR239/Leetcode_doc/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
@@ -1079,4 +1083,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/himanshuR239/Leetcode_doc/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/himanshuR239/Leetcode_doc/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/himanshuR239/Leetcode_doc/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
