@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-minimum-interval-to-include-each-query](https://github.com/himanshuR239/Leetcode_doc/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/himanshuR239/Leetcode_doc/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/himanshuR239/Leetcode_doc/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/himanshuR239/Leetcode_doc/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [2008-maximum-earnings-from-taxi](https://github.com/himanshuR239/Leetcode_doc/tree/master/2008-maximum-earnings-from-taxi) |
 | [2013-detect-squares](https://github.com/himanshuR239/Leetcode_doc/tree/master/2013-detect-squares) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/himanshuR239/Leetcode_doc/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/himanshuR239/Leetcode_doc/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/himanshuR239/Leetcode_doc/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1927-sum-game](https://github.com/himanshuR239/Leetcode_doc/tree/master/1927-sum-game) |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/himanshuR239/Leetcode_doc/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/himanshuR239/Leetcode_doc/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/himanshuR239/Leetcode_doc/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/himanshuR239/Leetcode_doc/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
