@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2008-maximum-earnings-from-taxi](https://github.com/himanshuR239/Leetcode_doc/tree/master/2008-maximum-earnings-from-taxi) |
 | [2013-detect-squares](https://github.com/himanshuR239/Leetcode_doc/tree/master/2013-detect-squares) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshuR239/Leetcode_doc/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/himanshuR239/Leetcode_doc/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/himanshuR239/Leetcode_doc/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2488-count-subarrays-with-median-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/2488-count-subarrays-with-median-k) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0321-create-maximum-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/himanshuR239/Leetcode_doc/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/himanshuR239/Leetcode_doc/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshuR239/Leetcode_doc/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/himanshuR239/Leetcode_doc/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/himanshuR239/Leetcode_doc/tree/master/1552-magnetic-force-between-two-balls) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/himanshuR239/Leetcode_doc/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2008-maximum-earnings-from-taxi](https://github.com/himanshuR239/Leetcode_doc/tree/master/2008-maximum-earnings-from-taxi) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshuR239/Leetcode_doc/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/himanshuR239/Leetcode_doc/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Sliding Window
 |  |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1824-minimum-sideway-jumps](https://github.com/himanshuR239/Leetcode_doc/tree/master/1824-minimum-sideway-jumps) |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/himanshuR239/Leetcode_doc/tree/master/1931-painting-a-grid-with-three-different-colors) |
 | [2008-maximum-earnings-from-taxi](https://github.com/himanshuR239/Leetcode_doc/tree/master/2008-maximum-earnings-from-taxi) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshuR239/Leetcode_doc/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/himanshuR239/Leetcode_doc/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/himanshuR239/Leetcode_doc/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/himanshuR239/Leetcode_doc/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/himanshuR239/Leetcode_doc/tree/master/1552-magnetic-force-between-two-balls) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/himanshuR239/Leetcode_doc/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2008-maximum-earnings-from-taxi](https://github.com/himanshuR239/Leetcode_doc/tree/master/2008-maximum-earnings-from-taxi) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshuR239/Leetcode_doc/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/himanshuR239/Leetcode_doc/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/himanshuR239/Leetcode_doc/tree/master/3068-find-the-maximum-sum-of-node-values) |
@@ -519,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/himanshuR239/Leetcode_doc/tree/master/1386-cinema-seat-allocation) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/himanshuR239/Leetcode_doc/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/himanshuR239/Leetcode_doc/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshuR239/Leetcode_doc/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/himanshuR239/Leetcode_doc/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/himanshuR239/Leetcode_doc/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/himanshuR239/Leetcode_doc/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -756,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/himanshuR239/Leetcode_doc/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/himanshuR239/Leetcode_doc/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshuR239/Leetcode_doc/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -864,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0731-my-calendar-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0732-my-calendar-iii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshuR239/Leetcode_doc/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1096,4 +1104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/himanshuR239/Leetcode_doc/tree/master/0149-max-points-on-a-line) |
+## Meet in the Middle
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshuR239/Leetcode_doc/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
