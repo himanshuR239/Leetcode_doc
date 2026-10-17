@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/himanshuR239/Leetcode_doc/tree/master/0994-rotting-oranges) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/himanshuR239/Leetcode_doc/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1029-two-city-scheduling](https://github.com/himanshuR239/Leetcode_doc/tree/master/1029-two-city-scheduling) |
+| [1043-partition-array-for-maximum-sum](https://github.com/himanshuR239/Leetcode_doc/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/himanshuR239/Leetcode_doc/tree/master/1046-last-stone-weight) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/himanshuR239/Leetcode_doc/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1109-corporate-flight-bookings](https://github.com/himanshuR239/Leetcode_doc/tree/master/1109-corporate-flight-bookings) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0879-profitable-schemes](https://github.com/himanshuR239/Leetcode_doc/tree/master/0879-profitable-schemes) |
 | [0940-distinct-subsequences-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0940-distinct-subsequences-ii) |
 | [0968-binary-tree-cameras](https://github.com/himanshuR239/Leetcode_doc/tree/master/0968-binary-tree-cameras) |
+| [1043-partition-array-for-maximum-sum](https://github.com/himanshuR239/Leetcode_doc/tree/master/1043-partition-array-for-maximum-sum) |
 | [1140-stone-game-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/1140-stone-game-ii) |
 | [1220-count-vowels-permutation](https://github.com/himanshuR239/Leetcode_doc/tree/master/1220-count-vowels-permutation) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/himanshuR239/Leetcode_doc/tree/master/1255-maximum-score-words-formed-by-letters) |
