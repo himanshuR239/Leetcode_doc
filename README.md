@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/himanshuR239/Leetcode_doc/tree/master/1590-make-sum-divisible-by-p) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/himanshuR239/Leetcode_doc/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/himanshuR239/Leetcode_doc/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+| [1626-best-team-with-no-conflicts](https://github.com/himanshuR239/Leetcode_doc/tree/master/1626-best-team-with-no-conflicts) |
 | [1824-minimum-sideway-jumps](https://github.com/himanshuR239/Leetcode_doc/tree/master/1824-minimum-sideway-jumps) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/himanshuR239/Leetcode_doc/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/himanshuR239/Leetcode_doc/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/himanshuR239/Leetcode_doc/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/himanshuR239/Leetcode_doc/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/himanshuR239/Leetcode_doc/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1626-best-team-with-no-conflicts](https://github.com/himanshuR239/Leetcode_doc/tree/master/1626-best-team-with-no-conflicts) |
 | [1824-minimum-sideway-jumps](https://github.com/himanshuR239/Leetcode_doc/tree/master/1824-minimum-sideway-jumps) |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/himanshuR239/Leetcode_doc/tree/master/1931-painting-a-grid-with-three-different-colors) |
 | [2008-maximum-earnings-from-taxi](https://github.com/himanshuR239/Leetcode_doc/tree/master/2008-maximum-earnings-from-taxi) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-allocate-mailboxes](https://github.com/himanshuR239/Leetcode_doc/tree/master/1478-allocate-mailboxes) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/himanshuR239/Leetcode_doc/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/himanshuR239/Leetcode_doc/tree/master/1552-magnetic-force-between-two-balls) |
+| [1626-best-team-with-no-conflicts](https://github.com/himanshuR239/Leetcode_doc/tree/master/1626-best-team-with-no-conflicts) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/himanshuR239/Leetcode_doc/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2008-maximum-earnings-from-taxi](https://github.com/himanshuR239/Leetcode_doc/tree/master/2008-maximum-earnings-from-taxi) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshuR239/Leetcode_doc/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -1040,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/himanshuR239/Leetcode_doc/tree/master/0300-longest-increasing-subsequence) |
+| [1626-best-team-with-no-conflicts](https://github.com/himanshuR239/Leetcode_doc/tree/master/1626-best-team-with-no-conflicts) |
 ## Eulerian Circuit
 |  |
 | ------- |
