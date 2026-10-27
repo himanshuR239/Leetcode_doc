@@ -22,7 +22,7 @@ public:
 
         while(!q.empty()){
             int sz = q.size(); //level-wise traverse
-            while(sz > 0){
+            while(sz--){
                 auto [curNode, curMask] = q.front();
                 q.pop();
 
@@ -38,7 +38,6 @@ public:
                         q.push({ngbr, nMask});
                     }
                 }
-                sz--;
             }
             cnt++;
         }
