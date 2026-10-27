@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/himanshuR239/Leetcode_doc/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/himanshuR239/Leetcode_doc/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/himanshuR239/Leetcode_doc/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/himanshuR239/Leetcode_doc/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/himanshuR239/Leetcode_doc/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Greedy
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/himanshuR239/Leetcode_doc/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/himanshuR239/Leetcode_doc/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/himanshuR239/Leetcode_doc/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/himanshuR239/Leetcode_doc/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/himanshuR239/Leetcode_doc/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/himanshuR239/Leetcode_doc/tree/master/3068-find-the-maximum-sum-of-node-values) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2008-maximum-earnings-from-taxi](https://github.com/himanshuR239/Leetcode_doc/tree/master/2008-maximum-earnings-from-taxi) |
 | [2013-detect-squares](https://github.com/himanshuR239/Leetcode_doc/tree/master/2013-detect-squares) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/himanshuR239/Leetcode_doc/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2488-count-subarrays-with-median-k](https://github.com/himanshuR239/Leetcode_doc/tree/master/2488-count-subarrays-with-median-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/himanshuR239/Leetcode_doc/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/himanshuR239/Leetcode_doc/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/himanshuR239/Leetcode_doc/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/himanshuR239/Leetcode_doc/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/himanshuR239/Leetcode_doc/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/himanshuR239/Leetcode_doc/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/himanshuR239/Leetcode_doc/tree/master/3498-reverse-degree-of-a-string) |
