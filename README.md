@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/himanshuR239/Leetcode_doc/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/himanshuR239/Leetcode_doc/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/himanshuR239/Leetcode_doc/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/himanshuR239/Leetcode_doc/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/himanshuR239/Leetcode_doc/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3483-unique-3-digit-even-numbers](https://github.com/himanshuR239/Leetcode_doc/tree/master/3483-unique-3-digit-even-numbers) |
 | [3686-number-of-stable-subsequences](https://github.com/himanshuR239/Leetcode_doc/tree/master/3686-number-of-stable-subsequences) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/himanshuR239/Leetcode_doc/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshuR239/Leetcode_doc/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/himanshuR239/Leetcode_doc/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/himanshuR239/Leetcode_doc/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Stack
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/himanshuR239/Leetcode_doc/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/himanshuR239/Leetcode_doc/tree/master/3068-find-the-maximum-sum-of-node-values) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/himanshuR239/Leetcode_doc/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/himanshuR239/Leetcode_doc/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Monotonic Stack
 |  |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshuR239/Leetcode_doc/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/himanshuR239/Leetcode_doc/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/himanshuR239/Leetcode_doc/tree/master/3068-find-the-maximum-sum-of-node-values) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/himanshuR239/Leetcode_doc/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/himanshuR239/Leetcode_doc/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3686-number-of-stable-subsequences](https://github.com/himanshuR239/Leetcode_doc/tree/master/3686-number-of-stable-subsequences) |
 ## Sorting
@@ -451,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/himanshuR239/Leetcode_doc/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/himanshuR239/Leetcode_doc/tree/master/3068-find-the-maximum-sum-of-node-values) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/himanshuR239/Leetcode_doc/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/himanshuR239/Leetcode_doc/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String
 |  |
