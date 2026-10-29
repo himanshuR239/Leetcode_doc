@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/himanshuR239/Leetcode_doc/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/himanshuR239/Leetcode_doc/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/himanshuR239/Leetcode_doc/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/himanshuR239/Leetcode_doc/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String
 |  |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2440-create-components-with-same-value](https://github.com/himanshuR239/Leetcode_doc/tree/master/2440-create-components-with-same-value) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/himanshuR239/Leetcode_doc/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/himanshuR239/Leetcode_doc/tree/master/3068-find-the-maximum-sum-of-node-values) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/himanshuR239/Leetcode_doc/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/himanshuR239/Leetcode_doc/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/himanshuR239/Leetcode_doc/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3310-remove-methods-from-project](https://github.com/himanshuR239/Leetcode_doc/tree/master/3310-remove-methods-from-project) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/himanshuR239/Leetcode_doc/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -920,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/himanshuR239/Leetcode_doc/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/himanshuR239/Leetcode_doc/tree/master/0968-binary-tree-cameras) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshuR239/Leetcode_doc/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/himanshuR239/Leetcode_doc/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
