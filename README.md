@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/himanshuR239/Leetcode_doc/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/himanshuR239/Leetcode_doc/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0407-trapping-rain-water-ii) |
+| [0410-split-array-largest-sum](https://github.com/himanshuR239/Leetcode_doc/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/himanshuR239/Leetcode_doc/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/himanshuR239/Leetcode_doc/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/himanshuR239/Leetcode_doc/tree/master/0435-non-overlapping-intervals) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/himanshuR239/Leetcode_doc/tree/master/0134-gas-station) |
 | [0321-create-maximum-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0324-wiggle-sort-ii) |
+| [0410-split-array-largest-sum](https://github.com/himanshuR239/Leetcode_doc/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/himanshuR239/Leetcode_doc/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/himanshuR239/Leetcode_doc/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/himanshuR239/Leetcode_doc/tree/master/0621-task-scheduler) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/himanshuR239/Leetcode_doc/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/himanshuR239/Leetcode_doc/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/himanshuR239/Leetcode_doc/tree/master/0410-split-array-largest-sum) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/himanshuR239/Leetcode_doc/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0731-my-calendar-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0732-my-calendar-iii) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshuR239/Leetcode_doc/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/himanshuR239/Leetcode_doc/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/himanshuR239/Leetcode_doc/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/himanshuR239/Leetcode_doc/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0732-my-calendar-iii) |
@@ -384,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/himanshuR239/Leetcode_doc/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/himanshuR239/Leetcode_doc/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/himanshuR239/Leetcode_doc/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/himanshuR239/Leetcode_doc/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/himanshuR239/Leetcode_doc/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/himanshuR239/Leetcode_doc/tree/master/0435-non-overlapping-intervals) |
 | [0488-zuma-game](https://github.com/himanshuR239/Leetcode_doc/tree/master/0488-zuma-game) |
