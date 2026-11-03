@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/himanshuR239/Leetcode_doc/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/himanshuR239/Leetcode_doc/tree/master/0502-ipo) |
 | [0546-remove-boxes](https://github.com/himanshuR239/Leetcode_doc/tree/master/0546-remove-boxes) |
+| [0587-erect-the-fence](https://github.com/himanshuR239/Leetcode_doc/tree/master/0587-erect-the-fence) |
 | [0621-task-scheduler](https://github.com/himanshuR239/Leetcode_doc/tree/master/0621-task-scheduler) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/himanshuR239/Leetcode_doc/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/himanshuR239/Leetcode_doc/tree/master/0724-find-pivot-index) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/himanshuR239/Leetcode_doc/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/himanshuR239/Leetcode_doc/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0202-happy-number) |
+| [0587-erect-the-fence](https://github.com/himanshuR239/Leetcode_doc/tree/master/0587-erect-the-fence) |
 | [0877-stone-game](https://github.com/himanshuR239/Leetcode_doc/tree/master/0877-stone-game) |
 | [0878-nth-magical-number](https://github.com/himanshuR239/Leetcode_doc/tree/master/0878-nth-magical-number) |
 | [0899-orderly-queue](https://github.com/himanshuR239/Leetcode_doc/tree/master/0899-orderly-queue) |
@@ -1002,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/himanshuR239/Leetcode_doc/tree/master/0149-max-points-on-a-line) |
+| [0587-erect-the-fence](https://github.com/himanshuR239/Leetcode_doc/tree/master/0587-erect-the-fence) |
 | [0973-k-closest-points-to-origin](https://github.com/himanshuR239/Leetcode_doc/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
@@ -1150,4 +1153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/himanshuR239/Leetcode_doc/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Convex Hull
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/himanshuR239/Leetcode_doc/tree/master/0587-erect-the-fence) |
+## Polygons
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/himanshuR239/Leetcode_doc/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->
